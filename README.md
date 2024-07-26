@@ -1,6 +1,6 @@
 # Multi-Stage Mars Visit Application Form
 
-Welcome to the Multistaged Form Project! This repository contains both backend code for a multi-step form designed for submitting responses to the Mars Visit Application Form.
+Welcome to the Multistaged Form Project! This repository contains backend code for a multi-step form designed for submitting responses to the Mars Visit Application Form.
 
 ## Table of Contents
 
